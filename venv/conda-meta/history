@@ -1,0 +1,25 @@
+==> 2025-01-25 10:33:59 <==
+# cmd: /Users/nehajoshi/anaconda3/bin/conda create -p venv python==3.9 -y
+# conda version: 24.7.1
++conda-forge/noarch::pip-24.3.1-pyh8b19718_2
++conda-forge/noarch::setuptools-75.8.0-pyhff2d567_0
++conda-forge/noarch::tzdata-2025a-h78e105d_0
++conda-forge/noarch::wheel-0.45.1-pyhd8ed1ab_1
++conda-forge/osx-arm64::ca-certificates-2024.12.14-hf0a4a13_0
++conda-forge/osx-arm64::libcxx-19.1.7-ha82da77_0
++conda-forge/osx-arm64::libffi-3.3-h9f76cd9_2
++conda-forge/osx-arm64::liblzma-5.6.3-h39f12f2_1
++conda-forge/osx-arm64::liblzma-devel-5.6.3-h39f12f2_1
++conda-forge/osx-arm64::libsqlite-3.46.0-hfb93653_0
++conda-forge/osx-arm64::libzlib-1.2.13-hfb2fe0b_6
++conda-forge/osx-arm64::ncurses-6.5-h5e97a16_2
++conda-forge/osx-arm64::openssl-1.1.1w-h53f4e23_0
++conda-forge/osx-arm64::python-3.9.0-h4b4120c_5_cpython
++conda-forge/osx-arm64::readline-8.2-h92ec313_1
++conda-forge/osx-arm64::sqlite-3.46.0-h5838104_0
++conda-forge/osx-arm64::tk-8.6.13-h5083fa2_1
++conda-forge/osx-arm64::xz-5.6.3-h9a6d368_1
++conda-forge/osx-arm64::xz-gpl-tools-5.6.3-h9a6d368_1
++conda-forge/osx-arm64::xz-tools-5.6.3-h39f12f2_1
++conda-forge/osx-arm64::zlib-1.2.13-hfb2fe0b_6
+# update specs: ['python==3.9']
